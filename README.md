@@ -80,7 +80,7 @@ Option 2: Manual input
 
 ## 📅 Completed On
 
-        8th June 2025
+        10th June 2025
 
 ## 🔖 Tags
 
