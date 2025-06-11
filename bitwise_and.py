@@ -4,6 +4,7 @@ import os
 import random
 import re
 import sys
+fptr = sys.stdout
 
 # Complete the 'bitwiseAnd' function below.
 
@@ -21,8 +22,7 @@ def bitwiseAnd(N, K):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
+   
     t = int(input().strip())
 
     for t_itr in range(t):
